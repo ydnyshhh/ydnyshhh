@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yadnyesh
 
 ## 🚀 About Me  
-I am an aspiring **Machine Learning researcher** with a deep passion for understanding and advancing AI. My research interests include:  
+I am an aspiring **Machine Learning Researcher** with a deep passion for understanding and advancing AI. My research interests include:  
 
 - **Diffusion Models** 🌫️  
 - **Reinforcement Learning (RL)** 🤖  
