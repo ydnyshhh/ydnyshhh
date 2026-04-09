@@ -3,4 +3,8 @@
 </p>
 
 
-*Hi, I'm Yadnyesh — an aspiring **Machine Learning Researcher** with a deep passion for understanding and advancing AI. My research interests include **Diffusion Models**, **Reinforcement Learning (RL)**, **Mechanistic Interpretability** , **Scientific Machine Learning**, and **Foundational Large Language Models (LLMs)**. I am particularly interested in building **interpretable, efficient, and scalable AI systems** that contribute to **scientific discovery** and create real‑world impact.*
+*Hi Yadnyesh Here! I am an aspiring ML researcher interested in both the foundations and the frontiers of AI. My work is motivated
+by questions around reasoning, reinforcement learning, post-training, ML systems, agentic systems, mechanistic
+interpretability, alignment, scientific machine learning and large foundation models. I am particularly excited
+by the challenge of designing AI systems that are more interpretable, efficient and scalable, especially when they
+can contribute to scientific progress and meaningful practical applications.*
